@@ -1,0 +1,1 @@
+Technologies used: Ollama, LangChain, Python, Chroma DB as storage for documents
