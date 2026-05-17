@@ -1,0 +1,7 @@
+Tech with Tim tutorial
+
+https://www.youtube.com/watch?v=E4l91XKQSgw
+
+pyton -m venv venv -- activates virtual env
+
+pip install -r .\requirements.txt -- will install all dependencies in requirements
